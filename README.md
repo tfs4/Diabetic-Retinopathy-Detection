@@ -30,6 +30,15 @@ If you have any problems, suggestions or improvements, please submit the issue o
   [[code]](http://graphics.cs.cmu.edu/projects/deepContext/)
   - Doersch, Carl and Gupta, Abhinav and Efros, Alexei A. *ICCV 2015*
 -->
+### 
+
+- Diabetic Retinopathy Detection using Ensemble Machine Learning
+[[pdf]](https://ieeexplore.ieee.org/document/9491645)
+
+- interesting comparison between using as training IDRID+Messidor-2 and classifying with Messidor
+- Maybe preprocessing can be useful
+
+
 
 ### Survey
 
