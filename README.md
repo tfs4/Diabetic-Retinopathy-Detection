@@ -33,10 +33,9 @@ If you have any problems, suggestions or improvements, please submit the issue o
 ### 
 
 - Diabetic Retinopathy Detection using Ensemble Machine Learning
-[[pdf]](https://ieeexplore.ieee.org/document/9491645)
+[[pdf]](https://ieeexplore.ieee.org/document/9491645) : interesting comparison between using as training IDRID+Messidor-2 and classifying with Messidor Maybe preprocessing can be useful
 
-- interesting comparison between using as training IDRID+Messidor-2 and classifying with Messidor
-- Maybe preprocessing can be useful
+- Diabetic Retinopathy Detection using Ensemble Machine Learnin  [[pdf]] (https://arxiv.org/pdf/2106.12545.pdf)
 
 
 
