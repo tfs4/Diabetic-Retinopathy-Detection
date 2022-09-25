@@ -38,8 +38,11 @@ If you have any problems, suggestions or improvements, please submit the issue o
 - Diabetic Retinopathy Detection using Ensemble Machine Learnin  [[pdf]](https://arxiv.org/pdf/2106.12545.pdf)
 
 
+### Pre-processing
 
-
+- Pre-processing Image using Brightening, CLAHE and RETINEX
+  [[pdf]](https://arxiv.org/pdf/2003.10822v1.pdf)
+  [[code]](https://github.com/TsaiZinan/CoDER_Project_Code/blob/master/Preprocessing.py)
 
 ### Survey
 
